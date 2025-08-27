@@ -23,7 +23,4 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ## LinkedIn
 https://www.linkedin.com/in/zaid-ijaz-7a68a82b0/
 
-## 🌟 Credits
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
