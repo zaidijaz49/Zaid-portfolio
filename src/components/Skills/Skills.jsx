@@ -1,5 +1,5 @@
 // src/components/Skills/Skills.jsx
-import React from "react";
+
 import { SkillsInfo } from "../../constants";
 import Tilt from "react-parallax-tilt";
 
@@ -43,7 +43,7 @@ const Skills = () => (
               {category.skills.map((skill) => (
                 <div
                   key={skill.name}
-                  className="flex items-center justify-center space-x-2 bg-transparent border-2 border-gray-700 rounded-3xl py-2 px-2 sm:py-2 sm:px-2 text-center"
+  
                 >
                   <img
                     src={skill.logo}
